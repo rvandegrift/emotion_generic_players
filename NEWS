@@ -1,0 +1,8 @@
+=============================
+Emotion Generic Players 1.8.1
+=============================
+
+Changes since 1.8.0:
+--------------------
+
+    * Check for libvlc >= 2.0 as a minimum as we use 2.x funcs
