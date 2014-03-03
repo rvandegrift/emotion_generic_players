@@ -1,6 +1,11 @@
 =============================
-Emotion Generic Players 1.8.1
+Emotion Generic Players 1.8.2
 =============================
+
+Changes since 1.8.1:
+--------------------
+
+    * Emotion VLC backend: fix pause/stop to work again.
 
 Changes since 1.8.0:
 --------------------
