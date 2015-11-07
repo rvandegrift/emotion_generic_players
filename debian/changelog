@@ -1,5 +1,6 @@
 emotion-players (1.15.0-0.1) UNRELEASED; urgency=medium
 
   * Initial upload
+  * Add build-depend on libemotion-dev
 
- -- Ross Vandegrift <ross@kallisti.us>  Sat, 03 Oct 2015 16:15:46 -0400
+ -- Ross Vandegrift <ross@kallisti.us>  Sat, 07 Nov 2015 17:45:10 -0500
