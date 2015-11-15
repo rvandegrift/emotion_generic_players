@@ -1,4 +1,4 @@
-emotion-players (1.15.0-0.1) UNRELEASED; urgency=medium
+emotion-players (1.15.0-1) UNRELEASED; urgency=medium
 
   * Initial upload
   * Add build-depend on libemotion-dev
