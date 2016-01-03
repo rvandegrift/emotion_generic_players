@@ -16,5 +16,8 @@ Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Additional file format loaders for libemotion
+ Emotion is a library that allows playing audio and video files, using one of
+ its backends.
+ .
  This package contains programs that allow libemotion to use libvlc to
  access additional formats for which it has no built-in support.
