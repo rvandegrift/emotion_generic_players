@@ -1,9 +1,15 @@
-emotion-players (1.17.0-1) UNRELEASED; urgency=medium
+emotion-players (1.17.0-1) experimental; urgency=medium
 
-  * Non-maintainer upload.
+  [ Ross Vandegrift ]
   * New upstream version.
 
- -- Ross Vandegrift <ross@kallisti.us>  Sat, 13 Aug 2016 16:28:12 -0400
+  [ Nicolas Braud-Santoni ]
+  * debian/rules: Build-time hardening
+  * debian/control
+    - Use TLS-enabled, canonical links
+    - Add Uploaders
+
+ -- Nicolas Braud-Santoni <nicolas@braud-santoni.eu>  Fri, 04 Nov 2016 17:35:57 +0100
 
 emotion-players (1.16.0-1) UNRELEASED; urgency=medium
 
