@@ -2,7 +2,9 @@ Source: emotion-players
 Section: libs
 Priority: optional
 Maintainer: Debian Pkg-e Team <pkg-e-devel@lists.alioth.debian.org>
-Uploaders: Albin Tonnerre <lutin@debian.org>
+Uploaders: Nicolas Braud-Santoni <nicolas@braud-santoni.eu>,
+           Albin Tonnerre <lutin@debian.org>,
+           Ross Vandegrift <ross@kallisti.us>
 Build-Depends: debhelper (>= 9), dh-autoreconf, libvlc-dev,
  libeina-dev (>= 1.15.1), libemotion-dev (>= 1.15.1)
 Standards-Version: 3.9.6
